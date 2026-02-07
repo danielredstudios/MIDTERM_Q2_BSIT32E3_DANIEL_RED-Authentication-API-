@@ -1,0 +1,6 @@
+@Authapi_HostAddress = http://localhost:5122
+
+GET {{Authapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
